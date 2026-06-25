@@ -1,1 +1,3 @@
 # AnalisisImagenesHongos
+
+Definir librerias pendientes
